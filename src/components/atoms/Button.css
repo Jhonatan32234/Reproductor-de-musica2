@@ -1,0 +1,17 @@
+#control-btn{
+    display: flex;
+    width: 400px;
+    height: 60px;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    &:hover{
+    background-color: #292929;
+    color: white;
+
+   }
+    
+}
